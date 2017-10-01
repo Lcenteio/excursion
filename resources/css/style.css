@@ -1,6 +1,7 @@
 * {
   font-family: Verdana;
   text-align: center;
+  background-color: black;
 }
 
 h1 {
@@ -11,7 +12,8 @@ h1 {
 }
 
 h2 {
-
+  font-weight: 300;
+  font-size: 42px;
 }
 
 h3 {
